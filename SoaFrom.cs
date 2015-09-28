@@ -46,6 +46,7 @@ namespace Corp.Mobile.MoblieTools
         {
             InitializeComponent();
             _type = type;
+
             //cmbEnv.Items.Clear();
 
         }
