@@ -70,7 +70,9 @@ namespace Corp.Mobile.MoblieTools
             Task.Factory.StartNew((taskObj) =>
             {
                 Stopwatch sw = new Stopwatch();
+
                 sw.Start();
+
                 try
                 {
                     dynamic dyObj = taskObj;
