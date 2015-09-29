@@ -56,10 +56,12 @@ namespace Corp.Mobile.MoblieTools
             if (_type.Equals("SOA1"))
             {
                 SOA1Request();
+
             }
             else
             {
                 SOA2Request();
+
             }
         }
 
